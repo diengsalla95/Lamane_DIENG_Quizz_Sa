@@ -1,0 +1,237 @@
+body{
+	background-color: grey;
+}
+.header{
+	position: absolute;
+	width: 646px;
+	height: 99px;
+	left: -1px;
+	top: -2px;
+	background: #2F80ED;
+}
+.decnx{
+	position: absolute;
+	width: 120px;
+	height: 42px;
+	left: 500px;
+	top: 25px;
+	background: #F9FAFB;
+	border-radius: 10px;
+	border:1px solid grey;
+	/*box-shadow: 3px 3px 6px 0 white,
+		-3px -3px 6px white;*/
+}
+.image{
+	position: absolute;
+	width: 85px;
+	height: 85px;
+	left: 6px;
+	top: 5px;
+	background: #C4C4C4;
+	border-radius:50%;
+}
+.headerText{
+	position: absolute;
+	width: 300px;
+	height: 29px;
+	left: 180px;
+	top: 33px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 21px;
+	color: #FFFFFF;
+}
+.menu{
+	position: absolute;
+	width: 646px;
+	height: 34px;
+	left: 0px;
+	top: 97px;
+	background: #C4C4C4;
+}
+.pageMenu{
+	position: absolute;
+	width: 160px;
+	height: 34px;
+	left: 0px;
+	background: #040404;
+	text-align: center;
+}
+.positionMenu1:hover{
+	background-color: grey;
+}
+.positionMenu2{
+	left:162px;
+}
+.positionMenu2:hover{
+	background-color: grey;
+}
+.positionMenu3{
+	left:324px;
+}
+.positionMenu3:hover{
+	background-color: grey;
+}
+.positionMenu4{
+	left:486px;
+}
+.positionMenu4:hover{
+	background-color: grey;
+}
+.menu a{
+	text-decoration: none;
+	color: #F9FAFB;
+	opacity: 0.8;
+}
+a:focus{
+	color: blue;
+}
+.cadre{
+	position: absolute;
+	width: 646px;
+	height: 320px;
+	left: 0px;
+	top: 131px;
+	background-color:#2F80ED;
+}
+.profil{
+	position: absolute;
+	width: 155px;
+	height: 300px;
+	left: 5px;
+	top: 10px;
+	background: #F9FAFB;
+	border-left:2px solid white;
+	border-radius: 5px;
+}
+ .ZNQ{
+ 	position: absolute;
+	width: 160px;
+	height: 37px;
+	top: 70px;
+	background: #000000;
+	border-radius: 10px;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+ }
+ .nq{
+ 	position: relative;
+	width: 53px;
+	height: 20px;
+	top: 80px;
+	background: #2F80ED;
+	border-radius: 5px;
+	text-align: center;
+ }
+ .menuQuest{
+ 	position: relative;
+ 	width: 160px;
+ 	height: 30px;
+ 	top: 100px;
+ 	border-radius: 5px;
+ 	margin-left: 15px;
+ }
+  .menuQuest a{
+  color: black;
+  }
+.prenom{
+	position: relative;
+	left: 6px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 21px;
+	color: #000000;
+}
+
+.jeux{
+	position: absolute;
+	width: 484px;
+	height: 315px;
+	left: 162px;
+	background: #2F80ED;
+}
+.question{
+	position: absolute;
+	width: 468px;
+	height: 310.84px;
+	left: 10px;
+	background: #F9FAFB;
+	overflow: auto;
+	box-shadow: inset -35px 0px 30px -30px #2F80ED,inset 35px 0px 30px -30px #2F80ED;
+}
+.im_add{
+	position: absolute;
+	width: 111px;
+	height: 111px;
+	border: 1px solid #BDBDBD;
+	box-sizing: border-box;
+	border-radius: 50%;
+	left: 330px;
+	top: 50px;
+}
+input{
+	width: 178px;
+	height: 20px;
+	background: #FFFFFF;
+	border: 1px solid #040404;
+	box-sizing: border-box;
+	border-radius: 5px;
+	margin-left: 20px;
+}
+label{
+	margin-left: 20px;
+}
+span{
+	margin-left: 5px;
+	color: red;
+}
+.cadre1{
+	position: absolute;
+	width: 400px;
+	height: 320px;
+	left: 0px;
+	top: 131px;
+	background-color:#2F80ED;
+	background: transparent url('../images/quizz.png') no-repeat scroll 0 0 / 100% auto;
+}
+.jeux1{
+	position: absolute;
+	width: 484px;
+	height: 315px;
+	left: 162px;
+	background: #2F80ED;
+	background: transparent url('../images/quizz.png') no-repeat scroll 0 0 / 100% auto;
+}
+.suivant{
+	position: absolute;
+	width: 77px;
+	height: 27px;
+	top: 280px;
+	left: 380px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+	background-color: black;
+	color: white;
+}
+.precedent{
+	position: absolute;
+	width: 77px;
+	height: 27px;
+	top: 280px;
+	left: 5px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+	background-color: black;
+	color: white;
+}
+.bv{
+		width: 400px;
+		height: 20px;
+		background: #2F80ED;
+		margin: auto auto;
+		color: white;
+		text-align: center;
+	}

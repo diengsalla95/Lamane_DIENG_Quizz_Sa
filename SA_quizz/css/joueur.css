@@ -1,0 +1,139 @@
+.cadrejou{
+	position: absolute;
+	width: 644px;
+	height: 353px;
+	left: 0px;
+	top: 97px;
+	background-color: red;
+
+}
+.cadrephoto{
+	position: absolute;
+	width: 120px;
+	height: 99px;
+	left: 0px;
+	top: 0px;
+	background: #C4C4C4;
+}
+.img{
+	position: absolute;
+	width: 61.81px;
+	height: 63.47px;
+	left: 20px;
+	top: 0px;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	border-radius: 50%;
+}
+.nom{
+	position: absolute;
+	width: 87px;
+	height: 16px;
+	left: 16px;
+	top: 74px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #000000;
+
+}
+.textHead{
+	position: absolute;
+	width: 486px;
+	height: 45px;
+	left: 157px;
+	top: 26px;
+	font-family: Ropa Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 19px;
+
+	color: #FFFFFF;
+}
+.gauche{
+	position: absolute;
+	width: 199.38px;
+	height: 353px;
+	left: 0px;
+	background: #FFFFFF;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	}
+	.droite{
+	position: absolute;
+	width: 444.61px;
+	height: 353px;
+	left: 199.38px;
+	background: #FFFFFF;
+	border: 1px solid #000000;
+	box-sizing: border-box;
+	overflow: auto;
+	}
+.top{
+	position: absolute;
+	width: 86px;
+	height: 25px;
+	left: 57px;
+	top: 24px;
+	background: #2F80ED;
+	text-align: center;
+}
+.resultTop{
+	position: absolute;
+	width: 186px;
+	height: 128px;
+	left: 5px;
+	top: 67px;
+	border:1px solid black;
+	overflow: auto;
+}
+.cadreMs{
+	position: absolute;
+	width: 86px;
+	height: 25px;
+	left: 58px;
+	top: 206px;
+	background: #C4C4C4;
+	font-size: 14px;
+}
+.MS{
+	position: absolute;
+	width: 87px;
+	height: 28px;
+	left: 57px;
+	top: 243px;
+	background: #C4C4C4;
+	text-align: center;
+}
+.dcnx{
+	position: absolute;
+	width: 114.69px;
+	height: 25px;
+	left: 42px;
+	top: 318px;
+	background: #2F80ED;
+	border-radius: 2px;
+}
+.suivant{
+	position: absolute;
+	width: 77px;
+	height: 27px;
+	top: 310px;
+	left: 360px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+	background-color: black;
+	color: white;
+}
+.precedent{
+	position: absolute;
+	width: 77px;
+	height: 27px;
+	top: 310px;
+	left: 5px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+	background-color: black;
+	color: white;
+}

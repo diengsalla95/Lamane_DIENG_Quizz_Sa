@@ -1,0 +1,137 @@
+body{
+	background-color: grey;
+}
+.principal{
+	position: relative;
+	width: 645px;
+	height: 495px;
+	background: #F9FAFB;
+	margin:auto auto;
+}
+.form{
+	position: absolute;
+	width: 492px;
+	height: 259px;
+	left: 92px;
+	top: 110px;
+	background: #FFFFFF;
+	border-radius: 10px;
+}
+.cnx{
+	position: absolute;
+	width: 214px;
+	height: 36px;
+	left: 260px;
+	top: 115px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 28px;
+	color: black;
+	opacity: 0.5;
+}
+.input{
+	position: absolute;
+	width: 272.42px;
+	height: 27px;
+	left: 129.58px;
+	background:#F2F2F2;
+	border-radius: 5px;
+}
+.top1{
+	top: 166px;
+}
+.top2{
+	top: 220px;
+}
+.top3{
+	top: 274px;
+	background: #51BFD0;
+	color: white;
+}
+.top4{
+	width: 645px;
+	top: 390px;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: red;
+}
+.inscription{
+	position: absolute;
+	width: 150px;
+	height: 27px;
+	left: 200px;
+	border-radius: 5px;
+	top: 310px;
+}
+
+a{
+	text-decoration: none;
+	color: rgb(186,101,2);
+}
+.footer{
+	position: absolute;
+	width: 646px;
+	height: 45px;
+	left: 0px;
+	top: 450px;
+	background: #2F80ED;
+	border-top:1px solid white;
+}
+.FT{
+	position: absolute;
+	width: 234px;
+	height: 35px;
+	left: 205px;
+	top: 460px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 28px;
+	color: #FFFFFF;
+}
+.im{
+	width: 645px;
+	height: 495px;
+}
+.icone1{
+	position: absolute;
+	top:175px;
+	left: 380px;
+}
+.icone2{
+	position: absolute;
+	top:227px;
+	left: 380px;
+}
+.error4{
+	position: absolute;
+	width: 245px;
+	height: 27px;
+	left: 200px;
+	top:135px;
+}
+.error{
+	position: absolute;
+	width: 245px;
+	height: 27px;
+	left: 200px;
+	top:195px;
+}
+.error2{
+	position: absolute;
+	width: 245px;
+	height: 27px;
+	left: 200px;
+	top:248px;
+}
+
+.quizzImage{
+	position: absolute;
+	width: 115px;
+	height: 215px;
+	left: 439px;
+	top: 136px;
+}
